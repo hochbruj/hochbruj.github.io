@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jan Hochbrueckner"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/images/Profile.jpg"
   bio              : "Data Scientist"
   location         : "Sydney, Australia"
   email            :
